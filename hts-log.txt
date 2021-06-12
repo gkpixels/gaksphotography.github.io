@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 12 Jun 2021 18:06:52 at bit.ly/3485kJd +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" bit.ly/3485kJd -O1 "C:\Users\KEVOH\Documents\Desktop\New folder (5)\sites" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:07:31	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://apis.google.com/js/client.js?onload=gapiLoaded (from https://sites.google.com/view/gkpixels/home)
+18:07:42	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://apis.google.com/js/client.js?onload=gapiLoaded (from https://sites.google.com/view/gkpixels/home)
+18:07:53	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://apis.google.com/js/client.js?onload=gapiLoaded (from https://sites.google.com/view/gkpixels/home)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 1 seconds : 6 links scanned, 2 files written (371759 bytes overall) [314174 bytes received at 5150 bytes/sec], 74790 bytes transferred using HTTP compression in 2 files, ratio 18%
+(1 errors, 2 warnings, 0 messages)
